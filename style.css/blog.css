@@ -1,5 +1,5 @@
 div{
-    background-color: rgb(176, 162, 184);
+    background-color:aquamarine;
     padding: 10px;
     margin-bottom: 10px;
 
@@ -11,4 +11,8 @@ li{
 }
 .a{
     background-color: azure;
+}
+#p1{
+    text-align: center;
+    color: blue;
 }
