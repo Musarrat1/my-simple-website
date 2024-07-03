@@ -4,3 +4,11 @@ div{
     margin-bottom: 10px;
 
 }
+li{
+    font-size: medium;
+    font-weight: 200px ;
+     color: darkolivegreen;
+}
+.a{
+    background-color: azure;
+}
